@@ -26,7 +26,7 @@ The Deltify website is designed to provide information about the company's servi
 
 ## Usage
 
-Visit the live website: [Deltify Website](https://example.com/deltify)
+Visit the live website: [Deltify Website](https://tamilselvan6.github.io/Deltify/)
 
 To run the website locally, follow these steps:
 
